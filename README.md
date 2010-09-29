@@ -1,6 +1,6 @@
 # node-evented
 
-<img src="http://fc08.deviantart.net/fs4/i/2004/212/c/7/Traffic_Lights.jpg" />
+<img src="http://i.imgur.com/3kYWY.jpg" />
 
 ## Extended EventEmitter for node.js
 
