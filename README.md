@@ -32,7 +32,7 @@ I'll give you no description, code talks itself:
 
 (The MIT License)
 
-Copyright (c) 2010 Charlie Robbins, Mikeal Rogers, & Marak Squires
+Copyright (c) 2010 Fedor Indutny
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
