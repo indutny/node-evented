@@ -1,0 +1,14 @@
+{
+  "name": "node-evented",
+  "description": "Extended version EventEmitter",
+  "version": "0.1.0",
+  "author": "Fedor Indutny <fedor.indutny@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "http://github.com/donnerjack13589/node-evented.git" 
+  },
+  "keywords": ["EventEmitter", "Event"],
+  "main": "./lib/node-evented",
+  "scripts": { "test": "vows" },
+  "engines": { "node": ">= 0.2.0" }
+}
